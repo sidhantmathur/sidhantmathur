@@ -6,28 +6,18 @@
 - 💪 My main skills are Javascript, Node, and React.
 - 📫 Reach Me at: sidhant185@gmail.com
 
-Here's what my projects look like:
+Here's what a couple of my projects look like:
 
-## Exo-planetarium
+## [Exo-planetarium](https://github.com/sidhantmathur/exo-planetarium)
 
 | Graphs | Landing |
 | - | - |
 | ![exoplanet graphs](exo1.png) | ![exoplanet landing page](exo2.png) |
 
-## Issue Tracker
+## [Issue Tracker](https://github.com/sidhantmathur/issue-tracker-client)
 
 | Auth | Kanban |
 | - | - |
 | ![issue tracker auth page](iss1.png) | ![issue tracker kanban](iss2.png) |
-
-## Portfolio
-
-| Light | Dark |
-| - | - |
-| ![light mode](port2.png) | ![dark mode](port1.png) |
-
-## Others
-
-![collage of projects](projects-collage.jpg)
 
 ### Check them out below
