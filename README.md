@@ -5,18 +5,8 @@
 - 📫 Reach Me at: sidhant185@gmail.com
 - 🔎 Checkout my website at: [sidhantkmathur.com](https://www.sidhantkmathur.com/)
 
-Here's what a couple of my projects look like:
+Here's my latest project:
 
 ## [Exo-planetarium](https://github.com/sidhantmathur/exo-planetarium)
-
-| Graphs | Landing |
-| - | - |
-| ![exoplanet graphs](exo1.png) | ![exoplanet landing page](exo2.png) |
-
-## [Issue Tracker](https://github.com/sidhantmathur/issue-tracker-client)
-
-| Auth | Kanban |
-| - | - |
-| ![issue tracker auth page](iss1.png) | ![issue tracker kanban](iss2.png) |
-
-### Check them out below
+![exoplanet landing page](exo2.png) 
+![exoplanet graphs](exo1.png) 
