@@ -8,5 +8,5 @@
 Here's my latest project:
 
 ## [Exo-planetarium](https://github.com/sidhantmathur/exo-planetarium)
-![exoplanet landing page](exo2.png) 
-![exoplanet graphs](exo1.png) 
+
+![exoplanet landing page](image.png)
