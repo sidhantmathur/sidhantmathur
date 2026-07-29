@@ -4,8 +4,6 @@
 
 By day I work in sales operations at Nokia, building GTM systems and internal tooling.
 
-I build with AI agents handling code generation while I own architecture, code review, and releases.
-
 Based in Toronto, ON.
 
 **Find me:** [sidhantmathur.com](https://www.sidhantmathur.com) · hello@sidhantmathur.com
